@@ -1,63 +1,64 @@
-Source CVE	Original reference from the source CVE	Additional CVEs extracted from the original reference	Patch		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0014	https://android.googlesource.com/platform/frameworks/base/+/d885c3279f3fecb2c08e382c733a440113dae644%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0015	https://android.googlesource.com/platform/packages/apps/CertInstaller/+/bdf1dc655cf226d10077e0926049bac0aed0127e%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-2200	https://android.googlesource.com/platform/frameworks/base/+/aa2ffea8baea65c13ac2b841b3d581f28261dd2b%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0017	https://android.googlesource.com/platform/frameworks/base/+/721e4d085ca3d1dc5826c0ba71615529f544d7f7%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0017	https://android.googlesource.com/platform/frameworks/base/+/ea4bce75cfebd7cef90b1e483d752b252f09333c%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0018	https://android.googlesource.com/platform/frameworks/native/+/7fb8682cbf494e3f1d5c79ebfbd9b020e1191679%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0020	https://android.googlesource.com/platform/frameworks/base/+/aa68a4f19e6a122b80ca1bcff57228dc795081e5%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0021	https://android.googlesource.com/platform/frameworks/base/+/859ead528cd09f6fdf3a85df390745054058d12c%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0021	https://android.googlesource.com/platform/frameworks/base/+/fab928923c8255626049e6f459105d2e4c715384%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0021	https://android.googlesource.com/platform/frameworks/base/+/f5a3d382a97ef26fefbd15cd02c9993e77f7b813%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0022	https://android.googlesource.com/platform/system/bt/+/3cb7149d8fed2d7d77ceaa95bf845224c4db3baf%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0023	https://android.googlesource.com/platform/packages/apps/Bluetooth/+/0d8307f408f166862fbd6efb593c4d65906a46ae%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0005	https://android.googlesource.com/platform/system/bt/+/771571f69ab9498e9104db3c5c367f1def0a5146%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0026	https://android.googlesource.com/platform/frameworks/native/+/daf29a6dbfafc6c06654a3878c0ad2a7f8ebc063%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0027	https://android.googlesource.com/platform/hardware/libhardware/+/2526448930008792615f8b8a718ad09f19390025%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0028	https://android.googlesource.com/platform/frameworks/base/+/0929eb918071c1e76fd41b677af0973412f8a098%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0028	https://android.googlesource.com/platform/frameworks/base/+/b66ddb8e5d08324ab3fc068861cd029a8ffba1b8%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2020-0030	https://android.googlesource.com/kernel/common/+/5eeb2ca0%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-11599	https://android.googlesource.com/kernel/common/+/04f5866e41fb70690e28397487d8bd8eea7d712a%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-11599	https://android.googlesource.com/kernel/common/+/3378ce511d7a792ddf0d69d11ce5e284309893fd%5E%21/		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-14044	https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=9c3d819d2d9563779fd1daa4eefef8628de22a86		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-14046	https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=a2198a95c0a1a319bb6d7ed9fefa1b5e905e6418		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-14049	https://source.codeaurora.org/quic/la/kernel/msm-4.14/commit/?id=31142010ccaf6ddad331a7919a7fbf3da80b8359		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-14049	https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=e8d9006612136f93811638c267d8375c55a88437		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-14049	https://source.codeaurora.org/quic/la/kernel/msm-4.4/commit/?id=5f7eaf83d		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-14055	https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=c0cb074983060d6ff46e312a9db81fde869cd63b		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-14063	https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel/commit/?id=bab05c57cb51aee957a1fe926c7d3c54378acb6a		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-10567	https://source.codeaurora.org/quic/la/kernel/msm-4.4/commit/?id=1aa9c68484c49a7357c0835b38fa1581bb7d6865		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-10567	https://source.codeaurora.org/quic/la/kernel/msm-4.14/commit/?id=fb37ff663a3d28e3a07549b074c54feb3e4376b5		
-CVE-2020-0005	https://source.android.com/security/bulletin/2020-02-01	CVE-2019-10567	https://source.codeaurora.org/quic/la/kernel/msm-4.14/commit/?id=a8acbcb0		
-CVE-2020-0009	https://packetstormsecurity.com/files/155903/Android-ashmem-Read-Only-Bypasses.html	CVE-2020-0009	NA		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0096	https://android.googlesource.com/platform/frameworks/base/+/a952197bd161ac0e03abc6acb5f48e4ec2a56e9d%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0096	https://android.googlesource.com/platform/frameworks/base/+/7fc95f204527ee079c5891d56c969668f0b35a0b%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0097	https://android.googlesource.com/platform/frameworks/base/+/8d0ae5c65cbcd72a820215eaeb50fcbc0dc531a8%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0097	https://android.googlesource.com/platform/frameworks/base/+/f98e1086f5a039d98becf7203367b663e72d09f5%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0097	https://android.googlesource.com/platform/frameworks/base/+/058cafe0c1f61e8edd25ba22e2c8e73a43c5d4ad%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0098	https://android.googlesource.com/platform/frameworks/base/+/5deb172bf4d9e2b80cda0b8dd5d2b0573e1c86e9%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0094	https://android.googlesource.com/platform/frameworks/av/+/64212a424b4819efb3b6c66e14f6b2b1b1023d4f%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0093	https://android.googlesource.com/platform/external/libexif/+/0335ffc17f9b9a4831c242bb08ea92f605fde7a6%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0100	https://android.googlesource.com/platform/frameworks/av/+/cf4c5675c2c7ab822ed1ff12350c78575153f3cb%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0101	https://android.googlesource.com/platform/frameworks/av/+/63889889c06e95529432177c457d6cdb4fcecac8%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0103	https://android.googlesource.com/platform/system/bt/+/89321d6f0d47724dc7f0c17f7d7302d1fe75086b%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0102	https://android.googlesource.com/platform/system/bt/+/6b7373a32e0a0628b497c1fbec5141ca47ef61b5%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0109	https://android.googlesource.com/platform/frameworks/base/+/adc39de3a148a2058d63bd7a1b8b71ee0a3524ac%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0105	https://android.googlesource.com/platform/system/security/+/1642dc003964aed54724d17d840f883f0537cebd%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0024	https://android.googlesource.com/platform/packages/apps/Settings/+/3c6a3011fa797bc00e5246b04e961847c0e60a1c%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0024	https://android.googlesource.com/platform/packages/apps/Settings/+/abe9cee25ecda73b84c6baad1fa631bf3a47572b		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0092	https://android.googlesource.com/platform/frameworks/base/+/2a81aed66366c2d38feb7be05d355ff819e60355%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0106	https://android.googlesource.com/platform/packages/services/Telephony/+/460a6de550d7e78ffb3032b92fdb05845c10ef06%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0104	https://android.googlesource.com/platform/frameworks/base/+/576c4d816c8efe8b9bf7dc88880d8ccde3beacee%5E%21/		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-0110	https://android-review.googlesource.com/c/kernel/common/+/1243775/2/kernel/sched/psi.c		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2019-19536	https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/diff/drivers/net/can/usb/peak_usb/pcan_usb_pro.c?id=ead16e53c2f0ed946d82d4037c630e2f60f4ab69		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2019-14053	https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=a7afe21e5d65c74c7eacb6e577fa5cf78f8685fd		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2019-14087	https://source.codeaurora.org/quic/la/platform/hardware/qcom/display/diff/?id=576a22370f673ac9aacc1d677a9a9d2a46ed05d2		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3610	https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=ae24933f4e3fd58ecbdd1463004f6112e7482793		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3610	https://source.codeaurora.org/quic/la/kernel/msm-3.18/diff/?h=LA.BR.5.6&id=f7302f8f1faa9707e2910240e81b2f13a242b518		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3615	https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/diff/?id=8874df976ef96d715ea55d09676ff7b7fd338b13		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3615	https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/diff/?id=7d26ce95237b080353500f372c6aab29973227a4		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3615	https://source.codeaurora.org/quic/le/platform/vendor/qcom-opensource/wlan/qcacld-2.0/diff/?h=qcacld-2.0/CHSS.LNX_FSL.2.1_rb1.4&id=1c2fcb1ea491301a8fb455d8c7fd2238c23dfc3d		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3630	https://source.codeaurora.org/quic/la/kernel/msm-4.14/diff/?h=CogSystems-msm-414/msm-4.9&id=930959cc4bda673339f28e52110980cbdbec447a		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3630	https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=056eb4a22db429af8445ee5aeda9976afdc86e98		
-CVE-2020-0024	https://source.android.com/security/bulletin/2020-05-01	CVE-2020-3680	https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=dc2091e9e4af87e8edaa328ec3a7192198b75669		
+Column1,Column2,Column3,Column4,Column5,Column6
+Source CVE,Original reference from the source CVE,Additional CVEs extracted from the original reference,Patch,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0014,https://android.googlesource.com/platform/frameworks/base/+/d885c3279f3fecb2c08e382c733a440113dae644%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0015,https://android.googlesource.com/platform/packages/apps/CertInstaller/+/bdf1dc655cf226d10077e0926049bac0aed0127e%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-2200,https://android.googlesource.com/platform/frameworks/base/+/aa2ffea8baea65c13ac2b841b3d581f28261dd2b%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0017,https://android.googlesource.com/platform/frameworks/base/+/721e4d085ca3d1dc5826c0ba71615529f544d7f7%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0017,https://android.googlesource.com/platform/frameworks/base/+/ea4bce75cfebd7cef90b1e483d752b252f09333c%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0018,https://android.googlesource.com/platform/frameworks/native/+/7fb8682cbf494e3f1d5c79ebfbd9b020e1191679%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0020,https://android.googlesource.com/platform/frameworks/base/+/aa68a4f19e6a122b80ca1bcff57228dc795081e5%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0021,https://android.googlesource.com/platform/frameworks/base/+/859ead528cd09f6fdf3a85df390745054058d12c%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0021,https://android.googlesource.com/platform/frameworks/base/+/fab928923c8255626049e6f459105d2e4c715384%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0021,https://android.googlesource.com/platform/frameworks/base/+/f5a3d382a97ef26fefbd15cd02c9993e77f7b813%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0022,https://android.googlesource.com/platform/system/bt/+/3cb7149d8fed2d7d77ceaa95bf845224c4db3baf%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0023,https://android.googlesource.com/platform/packages/apps/Bluetooth/+/0d8307f408f166862fbd6efb593c4d65906a46ae%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0005,https://android.googlesource.com/platform/system/bt/+/771571f69ab9498e9104db3c5c367f1def0a5146%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0026,https://android.googlesource.com/platform/frameworks/native/+/daf29a6dbfafc6c06654a3878c0ad2a7f8ebc063%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0027,https://android.googlesource.com/platform/hardware/libhardware/+/2526448930008792615f8b8a718ad09f19390025%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0028,https://android.googlesource.com/platform/frameworks/base/+/0929eb918071c1e76fd41b677af0973412f8a098%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0028,https://android.googlesource.com/platform/frameworks/base/+/b66ddb8e5d08324ab3fc068861cd029a8ffba1b8%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0030,https://android.googlesource.com/kernel/common/+/5eeb2ca0%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-11599,https://android.googlesource.com/kernel/common/+/04f5866e41fb70690e28397487d8bd8eea7d712a%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-11599,https://android.googlesource.com/kernel/common/+/3378ce511d7a792ddf0d69d11ce5e284309893fd%5E%21/,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-14044,https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=9c3d819d2d9563779fd1daa4eefef8628de22a86,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-14046,https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=a2198a95c0a1a319bb6d7ed9fefa1b5e905e6418,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-14049,https://source.codeaurora.org/quic/la/kernel/msm-4.14/commit/?id=31142010ccaf6ddad331a7919a7fbf3da80b8359,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-14049,https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=e8d9006612136f93811638c267d8375c55a88437,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-14049,https://source.codeaurora.org/quic/la/kernel/msm-4.4/commit/?id=5f7eaf83d,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-14055,https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=c0cb074983060d6ff46e312a9db81fde869cd63b,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-14063,https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel/commit/?id=bab05c57cb51aee957a1fe926c7d3c54378acb6a,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-10567,https://source.codeaurora.org/quic/la/kernel/msm-4.4/commit/?id=1aa9c68484c49a7357c0835b38fa1581bb7d6865,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-10567,https://source.codeaurora.org/quic/la/kernel/msm-4.14/commit/?id=fb37ff663a3d28e3a07549b074c54feb3e4376b5,,
+CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2019-10567,https://source.codeaurora.org/quic/la/kernel/msm-4.14/commit/?id=a8acbcb0,,
+CVE-2020-0009,https://packetstormsecurity.com/files/155903/Android-ashmem-Read-Only-Bypasses.html,CVE-2020-0009,NA,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0096,https://android.googlesource.com/platform/frameworks/base/+/a952197bd161ac0e03abc6acb5f48e4ec2a56e9d%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0096,https://android.googlesource.com/platform/frameworks/base/+/7fc95f204527ee079c5891d56c969668f0b35a0b%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0097,https://android.googlesource.com/platform/frameworks/base/+/8d0ae5c65cbcd72a820215eaeb50fcbc0dc531a8%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0097,https://android.googlesource.com/platform/frameworks/base/+/f98e1086f5a039d98becf7203367b663e72d09f5%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0097,https://android.googlesource.com/platform/frameworks/base/+/058cafe0c1f61e8edd25ba22e2c8e73a43c5d4ad%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0098,https://android.googlesource.com/platform/frameworks/base/+/5deb172bf4d9e2b80cda0b8dd5d2b0573e1c86e9%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0094,https://android.googlesource.com/platform/frameworks/av/+/64212a424b4819efb3b6c66e14f6b2b1b1023d4f%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0093,https://android.googlesource.com/platform/external/libexif/+/0335ffc17f9b9a4831c242bb08ea92f605fde7a6%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0100,https://android.googlesource.com/platform/frameworks/av/+/cf4c5675c2c7ab822ed1ff12350c78575153f3cb%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0101,https://android.googlesource.com/platform/frameworks/av/+/63889889c06e95529432177c457d6cdb4fcecac8%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0103,https://android.googlesource.com/platform/system/bt/+/89321d6f0d47724dc7f0c17f7d7302d1fe75086b%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0102,https://android.googlesource.com/platform/system/bt/+/6b7373a32e0a0628b497c1fbec5141ca47ef61b5%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0109,https://android.googlesource.com/platform/frameworks/base/+/adc39de3a148a2058d63bd7a1b8b71ee0a3524ac%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0105,https://android.googlesource.com/platform/system/security/+/1642dc003964aed54724d17d840f883f0537cebd%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0024,https://android.googlesource.com/platform/packages/apps/Settings/+/3c6a3011fa797bc00e5246b04e961847c0e60a1c%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0024,https://android.googlesource.com/platform/packages/apps/Settings/+/abe9cee25ecda73b84c6baad1fa631bf3a47572b,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0092,https://android.googlesource.com/platform/frameworks/base/+/2a81aed66366c2d38feb7be05d355ff819e60355%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0106,https://android.googlesource.com/platform/packages/services/Telephony/+/460a6de550d7e78ffb3032b92fdb05845c10ef06%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0104,https://android.googlesource.com/platform/frameworks/base/+/576c4d816c8efe8b9bf7dc88880d8ccde3beacee%5E%21/,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-0110,https://android-review.googlesource.com/c/kernel/common/+/1243775/2/kernel/sched/psi.c,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2019-19536,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/diff/drivers/net/can/usb/peak_usb/pcan_usb_pro.c?id=ead16e53c2f0ed946d82d4037c630e2f60f4ab69,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2019-14053,https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=a7afe21e5d65c74c7eacb6e577fa5cf78f8685fd,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2019-14087,https://source.codeaurora.org/quic/la/platform/hardware/qcom/display/diff/?id=576a22370f673ac9aacc1d677a9a9d2a46ed05d2,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3610,https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=ae24933f4e3fd58ecbdd1463004f6112e7482793,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3610,https://source.codeaurora.org/quic/la/kernel/msm-3.18/diff/?h=LA.BR.5.6&id=f7302f8f1faa9707e2910240e81b2f13a242b518,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3615,https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/diff/?id=8874df976ef96d715ea55d09676ff7b7fd338b13,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3615,https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/diff/?id=7d26ce95237b080353500f372c6aab29973227a4,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3615,https://source.codeaurora.org/quic/le/platform/vendor/qcom-opensource/wlan/qcacld-2.0/diff/?h=qcacld-2.0/CHSS.LNX_FSL.2.1_rb1.4&id=1c2fcb1ea491301a8fb455d8c7fd2238c23dfc3d,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3630,https://source.codeaurora.org/quic/la/kernel/msm-4.14/diff/?h=CogSystems-msm-414/msm-4.9&id=930959cc4bda673339f28e52110980cbdbec447a,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3630,https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=056eb4a22db429af8445ee5aeda9976afdc86e98,,
+CVE-2020-0024,https://source.android.com/security/bulletin/2020-05-01,CVE-2020-3680,https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=dc2091e9e4af87e8edaa328ec3a7192198b75669,,
