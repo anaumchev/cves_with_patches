@@ -1,4 +1,3 @@
-Column1,Column2,Column3,Column4
 Source CVE,Original reference from the source CVE,Additional CVEs extracted from the original reference,Patch
 CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0014,https://android.googlesource.com/platform/frameworks/base/+/d885c3279f3fecb2c08e382c733a440113dae644%5E%21/
 CVE-2020-0005,https://source.android.com/security/bulletin/2020-02-01,CVE-2020-0015,https://android.googlesource.com/platform/packages/apps/CertInstaller/+/bdf1dc655cf226d10077e0926049bac0aed0127e%5E%21/
