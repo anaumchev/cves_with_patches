@@ -384,3 +384,15 @@ CVE-2019-14099,https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogS
 CVE-2019-14099,https://source.codeaurora.org/quic/la/kernel/msm-4.9/diff/?h=CogSystems-msm-49/msm-4.9&id=c8995022daf5cd3cc0c90a75,CVE-2020-0427,https://source.android.com/security/bulletin/pixel/2020-09-01
 CVE-2019-2284,https://source.codeaurora.org/quic/la/kernel/msm-4.14/diff/?h=CogSystems-msm-414/msm-4.9&id=9507b8549ca6466b1a71147d1d69a998e31c6de2,CVE-2020-0427,https://source.android.com/security/bulletin/pixel/2020-09-01
 CVE-2020-3674,https://source.codeaurora.org/quic/la/kernel/msm-4.14/diff/?h=CogSystems-msm-414/msm-4.9&id=ef44a87dc872a945d31eb9199895e460646ac946,CVE-2020-0427,https://source.android.com/security/bulletin/pixel/2020-09-01
+CVE-2020-0556,https://patchwork.kernel.org/project/bluetooth/patch/20200310023516.209146-2-alainm@chromium.org/,CVE-2020-0556,https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00352.html
+CVE-2020-0556,https://patchwork.kernel.org/project/bluetooth/patch/20200310023516.209146-3-alainm@chromium.org/,CVE-2020-0556,https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00352.html
+CVE-2020-0570,https://code.qt.io/cgit/qt/qtbase.git/diff/?id=e6f1fde24f77f63fb16b2df239f82a89d2bf05dd,CVE-2020-0570,https://bugzilla.redhat.com/show_bug.cgi?id=1800604
+CVE-2020-10019,https://github.com/zephyrproject-rtos/zephyr/pull/23190/commits/8183a87931538650f09c00d8d51fbc2236600646,CVE-2020-10019,https://github.com/zephyrproject-rtos/zephyr/pull/23190
+CVE-2020-10019,https://github.com/zephyrproject-rtos/zephyr/pull/23457/commits/7da0454ad72912fab6e7988b8fe11b93dd45c954,CVE-2020-10019,https://github.com/zephyrproject-rtos/zephyr/pull/23457
+CVE-2020-10019,https://github.com/zephyrproject-rtos/zephyr/pull/23460/commits/63588a698e6100122dea9965254498d3b5e7a05a,CVE-2020-10019,https://github.com/zephyrproject-rtos/zephyr/pull/23460
+CVE-2020-10021,https://github.com/zephyrproject-rtos/zephyr/pull/23240/files,CVE-2020-10021,https://github.com/zephyrproject-rtos/zephyr/pull/23240
+CVE-2020-10021,https://github.com/zephyrproject-rtos/zephyr/pull/23455/files,CVE-2020-10021,https://github.com/zephyrproject-rtos/zephyr/pull/23455
+CVE-2020-10021,https://github.com/zephyrproject-rtos/zephyr/pull/23456/files,CVE-2020-10021,https://github.com/zephyrproject-rtos/zephyr/pull/23456
+CVE-2020-10022,https://github.com/zephyrproject-rtos/zephyr/pull/24065/files,CVE-2020-10022,https://github.com/zephyrproject-rtos/zephyr/pull/24065
+CVE-2020-10022,https://github.com/zephyrproject-rtos/zephyr/pull/24066/files,CVE-2020-10022,https://github.com/zephyrproject-rtos/zephyr/pull/24066
+CVE-2020-10022,https://github.com/zephyrproject-rtos/zephyr/pull/24154/files,CVE-2020-10022,https://github.com/zephyrproject-rtos/zephyr/pull/24154
